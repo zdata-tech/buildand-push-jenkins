@@ -1,6 +1,6 @@
 node {
    
-   def PROJECT="ludo-forma"
+   def PROJECT="z_repo"
    def IMAGE="$PROJECT/app:$VERSION"
    
     stage('Clone') {
